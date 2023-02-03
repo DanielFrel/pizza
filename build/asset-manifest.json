@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rizza/static/css/main.0bad5c0b.css",
+    "main.js": "/rizza/static/js/main.f99bb188.js",
+    "Cart.js": "/rizza/static/js/Cart.2a3d6113.chunk.js",
+    "FullPizza.js": "/rizza/static/js/FullPizza.ca1a1cc2.chunk.js",
+    "NotFound.css": "/rizza/static/css/NotFound.377d3b5e.chunk.css",
+    "NotFound.js": "/rizza/static/js/NotFound.8d940018.chunk.js",
+    "static/media/empty-cart.png": "/rizza/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/rizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/rizza/index.html",
+    "main.0bad5c0b.css.map": "/rizza/static/css/main.0bad5c0b.css.map",
+    "main.f99bb188.js.map": "/rizza/static/js/main.f99bb188.js.map",
+    "Cart.2a3d6113.chunk.js.map": "/rizza/static/js/Cart.2a3d6113.chunk.js.map",
+    "FullPizza.ca1a1cc2.chunk.js.map": "/rizza/static/js/FullPizza.ca1a1cc2.chunk.js.map",
+    "NotFound.377d3b5e.chunk.css.map": "/rizza/static/css/NotFound.377d3b5e.chunk.css.map",
+    "NotFound.8d940018.chunk.js.map": "/rizza/static/js/NotFound.8d940018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bad5c0b.css",
+    "static/js/main.f99bb188.js"
+  ]
+}
