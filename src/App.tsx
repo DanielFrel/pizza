@@ -26,8 +26,8 @@ function App() {
   return (
     <SearchContext.Provider value={{ searachValue, setSerachValue }}>
       <Routes>
-        <Route path="/rizza/" element={<MainLayout />}>
-          <Route path="/rizza/" element={<Home />} />
+        <Route path="/" element={<MainLayout />}>
+          <Route path="" element={<Home />} />
           <Route
             path="cart"
             element={
@@ -37,7 +37,7 @@ function App() {
             }
           />
           <Route
-            path="/rizza/pizza/:id"
+            path="pizza/:id"
             element={
               <Suspense fallback={<div>Идёт загрузка...</div>}>
                 <FullPizza />
