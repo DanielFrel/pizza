@@ -2,7 +2,7 @@
   "name": "react-pizza",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielfrel.github.io/rizza/",
+  "homepage": "https://danielfrel.github.io/pizza/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
